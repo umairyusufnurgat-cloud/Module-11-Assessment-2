@@ -37,7 +37,8 @@ Foodie-Fanatix/
 3. All dependencies loaded via CDN
 
 ## Features Overview
-
+🌐 Live Site
+https://umairyusufnurgat-cloud.github.io/Module-11-Assessment-2/
 ### Navigation
 - Fixed responsive navbar with smooth scrolling
 - Mobile hamburger menu for small screens
